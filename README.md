@@ -2,6 +2,8 @@
 Sentiment Analysis done on Twitter Apple Tweets data before the apple earning report 
 
 Insights Shots:
+
+
 ![alt text](https://github.com/muk165/SentimentAnalysis/blob/main/sentiment_barplots.png?raw=true)
 ![alt text](https://github.com/muk165/SentimentAnalysis/blob/main/traingle_wordcloud.png)
 ![alt text](https://github.com/muk165/SentimentAnalysis/blob/main/barplot_wordcounts.png)
