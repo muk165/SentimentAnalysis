@@ -1,6 +1,7 @@
 # SentimentAnalysis
 Sentiment Analysis done on Twitter Apple Tweets data before the apple earning report 
-
+INSIGHTS
+![alt text](https://github.com/muk165/SentimentAnalysis/blob/main/sentiment_barplots.png?raw=true)
 Brief on whats happening inside the Sentiment.R Script
 
 I am using an unstructured data to get insights on the senetiments of tweets, the data is converted to structured format by using an vector space model,In the Vector Space model, each document(record/row) from the corpus is represented as a multidimensional vector. Each unique term from the corpus represents one dimension of the vector space. A term can be a single word or sequence of words. The number of unique terms in the corpus determines the dimension of the vector space.
